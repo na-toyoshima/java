@@ -18,6 +18,6 @@ public class Human03 {
 			System.out.println("挨拶する友達がわかりません");
 			return;
 		}
-		System.out.println(friend + "さん、こんにちは");
+		System.out.println(friend + "さん、こんにちは！");
 	}
 }
