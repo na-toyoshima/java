@@ -8,7 +8,7 @@ public class Human03 {
 	public Human03() {
 		this.name = "山田";
 		this.age = 20;
-		this.profession = "プログラマー";
+		this.profession = "プログラマー!";
 		}
 	public String getProfile() {
 		return "年齢は" + this.age + "、職業は" +this.profession;
