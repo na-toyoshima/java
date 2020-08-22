@@ -6,7 +6,7 @@ public class Human03 {
 	public String profession;
 
 	public Human03() {
-		this.name = "山田さんですね";
+		this.name = "山田さんです";
 		this.age = 20;
 		this.profession = "プログラマー!";
 		}
